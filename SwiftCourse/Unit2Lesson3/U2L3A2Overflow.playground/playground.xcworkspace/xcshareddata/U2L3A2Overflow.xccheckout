@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54C2DEE5-D4B0-43FF-91DD-15C597A1CDFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>U2L3A2Overflow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB11F4423377D91C74C3F597EA9ED734C0CE05EB</key>
+		<string>https://github.com/ezefib/ThinkfulProjects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftCourse/Unit2Lesson3/U2L3A2Overflow.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB11F4423377D91C74C3F597EA9ED734C0CE05EB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ezefib/ThinkfulProjects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB11F4423377D91C74C3F597EA9ED734C0CE05EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB11F4423377D91C74C3F597EA9ED734C0CE05EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ThinkfulProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>

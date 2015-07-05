@@ -7,6 +7,7 @@ import XCPlayground
 
 let view = UIView(frame: CGRect(x: 0, y: 0, width: 320, height: 320))
 
+
 XCPShowView("This is the title!", view)
 
 
@@ -15,3 +16,4 @@ view2.backgroundColor = UIColor.redColor()
 
 //Comprehension Check
 view.addSubview(view2)
+
